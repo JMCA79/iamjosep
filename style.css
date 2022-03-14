@@ -151,9 +151,8 @@ content h2 {
 }
 
 .button:hover {
-  border: 6px solid #ffffff;
+  border: 4px solid #ffffff;
   padding-right: 25px;
-  font-weight: 600;
 }
 
 
