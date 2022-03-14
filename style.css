@@ -117,13 +117,15 @@ content h2 {
 
 .button {
   display: inline-block;
-  vertical-align:middle;
+  vertical-align: middle;
   border-radius: 2.0em;
   background-color: transparent;
   border: 3px solid #ffffff;
   color: #FFFFFF;
   text-align: center;
-  font-size: 28px;
+  font-family: 'Karla', sans-serif;
+  font-size: 1.8rem;
+  font-weight: 400;
   padding: 20px;
   width: 100%;
   transition: all 0.5s;
@@ -151,6 +153,7 @@ content h2 {
 .button:hover {
   border: 6px solid #ffffff;
   padding-right: 25px;
+  font-weight: 600;
 }
 
 
