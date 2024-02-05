@@ -69,8 +69,8 @@ svg,img { max-width: 100%; height: auto; }
 
 .ds-banner-section figure{ margin-bottom: var(--margin-54) }
 .ds-banner-section p{font-size:var(--font_16);line-height:var(--30); margin-bottom: var(--30); }
-.ds-button{ display: inline-block; text-transform: uppercase; color: #FFF; background-color: #45CD86; border-radius:var(--font_30); padding:1.125rem 3.625rem; font-weight: 700; letter-spacing: 1px }
-.ds-button:hover{ color: #FFF; background-color:#3bb173  }
+.ds-button{ display: inline-block; text-transform: uppercase; color: #FFF; background-color: #00B7CC; border-radius:var(--font_30); padding:1.125rem 3.625rem; font-weight: 700; letter-spacing: 1px }
+.ds-button:hover{ color: #FFF; background-color:#00a0b3; }
 .ds-content-width p{ width:570px }
 
 .ds-project-list{ display: grid;grid-template-columns: auto auto; margin:0 -0.75rem}
@@ -90,7 +90,7 @@ svg,img { max-width: 100%; height: auto; }
 .ads-bout-section .ds-heading-inner,.ds-back-home{ margin-bottom: var(--margin-54) }
 
 
-.ds-left-right-section .ds-hedding{font-size:3rem; position:relative; margin-bottom:0.875rem;font-family: 'DM Serif Display', serif;}
+.ds-left-right-section .ds-hedding{font-size:3rem; position:relative; margin-bottom:0.875rem;font-family: 'Gloock', serif;}
 .ds-left-right-section {margin-bottom: var(--margin-120);}
 .ds-left-right-section  figure{ margin-bottom: var(--margin-60); }
 .ds-left-right-section .ds-tools{ font-weight: 700 }
