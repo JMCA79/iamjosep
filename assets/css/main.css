@@ -68,8 +68,8 @@ svg,img { max-width: 100%; height: auto; }
 
 
 .ds-banner-section figure{ margin-bottom: var(--margin-54) }
-.ds-banner-section p{font-size:var(--font_16);line-height:var(--30); margin-bottom: var(--30); }
-.ds-button{ display: inline-block; text-transform: uppercase; color: #FFF; background-color: #00B7CC; border-radius:var(--font_30); padding:1.125rem 3.625rem; font-weight: 700; letter-spacing: 1px }
+.ds-banner-section p{font-size:var(--font_14);line-height:var(--30); margin-bottom: var(--30); }
+.ds-button{ display: inline-block; text-transform: uppercase; color: #FFF; background-color: #00B7CC; border-radius:var(--font_30); padding:1.025rem 1.625rem; font-weight: 700; letter-spacing: 1px }
 .ds-button:hover{ color: #FFF; background-color:#00a0b3; }
 .ds-content-width p{ width:570px }
 
